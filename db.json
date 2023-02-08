@@ -1,14 +1,6 @@
 {
   "ramens": [
     {
-      "id": 1,
-      "name": "Shoyu Ramen",
-      "restaurant": "Nonono",
-      "image": "./assets/ramen/shoyu.jpg",
-      "rating": 7,
-      "comment": "Delish. Can't go wrong with a classic!"
-    },
-    {
       "id": 2,
       "name": "Naruto Ramen",
       "restaurant": "Naruto",
@@ -39,6 +31,38 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": "",
+      "id": 7
+    },
+    {
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": "",
+      "id": 8
+    },
+    {
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": "",
+      "id": 9
+    },
+    {
+      "name": "asdf",
+      "restaurant": "asfd",
+      "image": "https://scontent-den4-1.xx.fbcdn.net/v/t1.6435-9/67438297_639014399927103_7826801298153406464_n.jpg?stp=cp0_dst-jpg_e15_p480x480_q65&_nc_cat=107&ccb=1-7&_nc_sid=110474&_nc_ohc=XyLkYGqTs6gAX-t0B_L&_nc_ht=scontent-den4-1.xx&oh=00_AfBGFs1OkVEWrwO1ry2PwS_2DyVyMrXXdFGOMdcKR88hKA&oe=640B67E3",
+      "rating": "1",
+      "comment": "fsad",
+      "id": 10
     }
   ]
 }
